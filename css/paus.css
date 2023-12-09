@@ -1,0 +1,156 @@
+/*// 20150326hy footer 수정 */
+#footerArea {
+    width: 100%;
+    clear: both;
+    display: inline-block;
+    margin-top: 50px;
+    overflow: hidden;
+    font-weight: normal !important;
+    background: #f5f5f5; }
+  
+  #footerArea a {
+    display: inline-block;
+    font-variant: normal !important; }
+  
+  #footerArea .footerFrame {
+    padding: 0;
+    margin: 0px auto;
+    position: relative; }
+  
+  #footerArea DIV.footerTop {
+    position: relative;
+    border-bottom: 1px solid #dcdcdc;
+    overflow: hidden; }
+  
+  #footerArea DIV.footerTop ul {
+    margin: 0 auto;
+    text-align: center;
+    margin: 10px 0;
+    clear: both;
+    display: inline-block; }
+  
+  #footerArea .footerinfo {
+    height: 80px;
+    display: inline-block; }
+  
+  #footerArea .w170 {
+    width: 180px; }
+  
+  #footerArea .w230 {
+    width: 225px;
+    padding-left: 25px; }
+  
+  #footerArea .w500 {
+    width: 550px;
+    padding-left: 30px;
+    margin-top: 4px; }
+  
+  #footerArea DIV .footerTop .footerMenu {
+    display: block;
+    width: 972px;
+    height: 31px;
+    margin: 10px auto;
+    float: none; }
+  
+  #footerArea DIV .footerTop .footerMenu li {
+    float: left;
+    zoom: 1;
+    position: relative;
+    margin-left: 40px; }
+  
+  #footerArea DIV .footerTop .footerMenu LI:first-child {
+    margin-left: 0; }
+  
+  #footerArea DIV .footerTop .footerMenu LI a {
+    padding: 8px 0 6px 0;
+    float: left;
+    color: #6d6d6d;
+    font-size: 13px;
+    text-align: center;
+    word-spacing: -2px;
+    cursor: pointer; }
+  
+  #footerArea DIV .footerTop .footerMenu LI a:hover {
+    color: #295b37;
+    text-decoration: underline; }
+  
+  #footerArea .footerSection {
+    width: 972px;
+    text-align: center;
+    clear: both;
+    display: block;
+    margin: 20px auto; }
+  
+  #footerArea .footerSection:after {
+    content: "";
+    display: block;
+    clear: both; }
+  .logo-box img{
+    width: 100px;
+  }
+  #footerArea .footerSection div {
+    float: left;
+    vertical-align: text-top; }
+  
+  #footerArea .footerSection div:first-child {
+    padding-left: 0; }
+  
+  #footerArea .footerSection div h1 {
+    display: inline-block; }
+  
+  #footerArea .footerSection li {
+    float: left; }
+  
+  #footerArea .footerSection div li .btn {
+    font-size: 11px;
+    line-height: inherit;
+    word-spacing: -1px;
+    color: #fff;
+    padding: 2px 3px 0 4px;
+    margin: 0;
+    background: #ccc;
+    text-decoration: none; }
+  
+  #footerArea .footerSection div li .btn:hover {
+    color: #fff;
+    background: #295b37; }
+  
+  #footerArea .footerSection .address li {
+    font-size: 14px;
+    font-style: normal;
+    color: #6d6d6d;
+    padding: 0 0 0 10px;
+    margin: 0;
+    line-height: 24px;
+    white-space: nowrap;
+    letter-spacing: -0.75px; }
+  
+  #footerArea .footerSection .address li .tit {
+    font-size: 14px;
+    color: #6d6d6d; }
+  
+  #footerArea .footerSection .address .ldt {
+    display: inline-block;
+    width: 450px;
+    padding: 3px 0 0 10px;
+    font-style: normal;
+    font-family: 'Arial', 'Helvetica', 'sans-serif';
+    color: #6d6d6d;
+    margin: 0;
+    font-size: 13px !important;
+    word-spacing: -2px;
+    font-weight: normal; }
+  
+  #footerArea .footerSection .address .ldt a {
+    white-space: nowrap; }
+  
+  #footerArea .footerSection .kbArea .kbinfo {
+    font: 11px;
+    line-height: 15px;
+    color: #666;
+    padding-top: 5px;
+    word-spacing: -2px;
+    font-style: normal; }
+  
+  #footerArea .footerSection .kbArea li {
+    float: none; }
